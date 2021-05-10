@@ -17,5 +17,7 @@ https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainab
 https://spark.apache.org/docs/latest/
 
 # Spark - the definitive guide
+
 https://www.oreilly.com/library/view/spark-the-definitive/9781491912201/
+
 ![Spark](https://learning.oreilly.com/library/cover/9781491912201/250w/)
